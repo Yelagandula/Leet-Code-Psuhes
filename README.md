@@ -22,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Yelagandula/Leet-Code-Psuhes/tree/master/1603-running-sum-of-1d-array) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Yelagandula/Leet-Code-Psuhes/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
